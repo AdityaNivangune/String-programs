@@ -25,5 +25,7 @@ VS Code / Intellij (IDE)
 Git / GitHub
 
 ## Author 
-###Aditya Nivangune
+Aditya Nivangune
 Java Enthusiast | DSA Learner
+
+## If you like this repository, please give it a ⭐!
